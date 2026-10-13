@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "apk": "dist/SnapLivre-arm64.apk",
+  "sha256": "086987ce51f931c9e793c213b09391bc4f855fd1487d2bb6a8c3f1c81aec8996",
+  "player_media3_known_ad_sdk_or_original_namespaces_found": [],
+  "boundary": "Busca em todas as DEX pelos namespaces listados, acompanhada de confer\u00eancia de manifesto, c\u00f3digo e depend\u00eancias. N\u00e3o equivale a uma busca universal por qualquer SDK.",
+  "initial_ytdlp_sha256": "1fa6733c37ea6fb51c99ad8fe785e7b7e5f3246c9b980230329d4fb72ed8d4d6",
+  "initial_ytdlp_apk_resource": [
+    "res/Nc"
+  ]
+}
